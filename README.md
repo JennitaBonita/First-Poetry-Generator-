@@ -1,1 +1,4 @@
-# First Poetry Generator 
+**Artist Statement** 
+
+_Jennie Garcia_
+
